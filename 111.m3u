@@ -126,6 +126,9 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 #EXTINF:0 tvg-id="ext" group-title="Channels",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?HasBahCa
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",
 
 
