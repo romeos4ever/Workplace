@@ -79,6 +79,8 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?HasBahCa
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",DW
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?HasBahCa
@@ -121,6 +123,8 @@ https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?HasBahCa
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",
 
 
 
