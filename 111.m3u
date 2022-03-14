@@ -72,6 +72,9 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:0 tvg-id="ext" group-title="Channels",BBC
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
@@ -94,10 +97,23 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Jazeera Arabic
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8?HasBahCa
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -131,9 +147,17 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Juste pour Rire
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
 
 
 
