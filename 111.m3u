@@ -96,8 +96,8 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8?HasBahCa
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alaraby TV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8?HasBahCa
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Hurra
 https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
